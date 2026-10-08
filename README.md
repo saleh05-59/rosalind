@@ -20,7 +20,7 @@ Problem files are named by Rosalind ID, e.g. `ini1.py`, `dna.py`, `rna.py`.
 
 ## Progress
 
-- [ ] Python Village
+- [x] Python Village
 - [ ] Bioinformatics Stronghold
 - [ ] Bioinformatics Armory
 - [ ] Algorithmic Heights
